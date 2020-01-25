@@ -1,2 +1,2 @@
 # helloworld
-its my new repository
+ Hi, i'm Revanth.Its my new repository.
